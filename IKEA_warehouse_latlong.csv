@@ -1,0 +1,472 @@
+Country,Region,City,Name,Street,Zip,Latitude,Longitude
+Australia,Victoria,Springvale,IKEA Springvale,917 Princes Highway,3171,-37.9265315,145.1439079
+Australia,Victoria,Richmond,IKEA Richmond,630 Victoria Street,3121,-37.81229155,145.01114104467587
+Australia,Australian CapitalTerritory ,Canberra,IKEA Canberra Store,"1030 Majura Rd, Pialligo ACT 2609",2609,-35.294783100000004,149.18698860546888
+Australia,New South Wales,Tempe,IKEATempe Store,634-726 Princes Highway,2044,-33.9226307,151.16548626991158
+Australia,New South Wales,Rhodes,IKEA Rhodes Store,1 Oulton Avenue,2138,-33.8241444,151.09235013094218
+Australia,New South Wales,Marsden Park,IKEA Marsden Park Store,1 Hollinsworth Road,2765,-33.71910565,150.84259475453
+Australia,Queensland,Slacks Creek,IKEA Logan Store,3539-3565 PACIFIC HIGHWAY,4127,-27.6353666,153.13290634621475
+Australia,Queensland,North Lakes,IKEA North Lakes Store,3 NORTH LAKES DRIVE,4509,-27.2434719,153.0156927
+Australia,South Australia,Adelaide,IKEA Adelaide Store,397 Sir Donald Bradman Dr,5950,-34.934244199999995,138.53837202624896
+Australia,Western Australia,Perth,IKEA Perth Store,"6 SUNRAY DRIVE, INNALOO",6018,-31.896595640234374,115.80379243991332
+Austria,NaN,Graz,IKEA Graz,Weblinger Gürtel 31,NaN,47.0322845,15.4218942
+Austria,NaN,Innsbruck,IKEA Innsbruck,Amraser-See-Straße 56 C,NaN,47.2611213,11.4307252
+Austria,NaN,Klagenfurt,IKEA Klagenfurt,IKEA Platz 1,NaN,46.6396598,14.3695875
+Austria,NaN,Haid,IKEA Linz Haid,IKEA Platz 1,NaN,48.19692515,14.25060391809654
+Austria,NaN,Salzburg,IKEA Salzburg,Europastraße 5,NaN,47.81675935,13.005999678661215
+Austria,NaN,Vösendorf,IKEA Vösendorf,Shopping City Süd,NaN,48.106053,16.318403662041113
+Austria,NaN,Wien,IKEA Wien Nord,Sverigestrasse 1 A,NaN,48.25397185,16.4712171234182
+Bahrain,NaN,Manama,IKEA Manama,Salmabad block 712,NaN,26.180091975386915,50.5046416994052
+Belgium,NaN,Anderlecht,IKEA Anderlecht,Chaussee De Mons 1432,NaN,50.8108599,4.291444842197057
+Belgium,NaN,Arlon,IKEA Arlon,Rue de Grasse 100,NaN,49.63748565,5.891140554466112
+Belgium,NaN,Sint-Denijs-Westrem,IKEA Gent,Maaltekouter 2,NaN,51.02334625,3.6881193529359
+Belgium,NaN,Hasselt,IKEA Hasselt,Biezenstraat 45,NaN,50.91926885,5.314083469447771
+Belgium,NaN,Hognoul,IKEA Liège,Porte De Liege 7,NaN,50.6789177,5.462922116047608
+Belgium,NaN,Mons,IKEA Mons,Place des Grands Prés 1/A,NaN,50.45640205,3.929755146990236
+Belgium,NaN,Wilrijk,IKEA Wilrijk,Boomsesteenweg 755,NaN,51.1572608,4.386270658357993
+Belgium,NaN,Zaventem,IKEA Zaventem,Weiveldlaan 19,NaN,50.87172245,4.491887175159199
+Bulgaria,NaN,Sophia,IKEA Sophia,216 Okolovrasten Pat street,1756,42.80351042871347,23.352606006793355
+Bulgaria,NaN,Barna,IKEA Barna,NaN,NaN,43.35646071127767,27.889367044020737
+Bulgaria,NaN,Plovdiv,IKEA Plovdiv,NaN,NaN,42.35784540714366,24.842475997050386
+Canada,NaN,Boucherville,IKEA Boucherville,586 De Touraine,NaN,45.57262785,-73.4012106776824
+Canada,NaN,Burlington,IKEA Burlington,1065 Plains Road East,NaN,43.327869,-79.8289119
+Canada,NaN,Calgary,IKEA Calgary,8000 - 11th Street S.E.,NaN,50.9809281,-114.0432243398296
+Canada,NaN,Coquitlam,IKEA Coquitlam,1000 Lougheed Highway,NaN,49.23456885,-122.86666466311718
+Canada,NaN,Edmonton,IKEA Edmonton,1311-102 Street NW,NaN,53.443262,-113.490333
+Canada,NaN,Etobicoke,IKEA Etobicoke,1475 The Queensway,NaN,43.6183013,-79.53453304217736
+Canada,NaN,Dartmouth,IKEA Halifax,645 Cutler Ave,NaN,44.7129215,-63.55770325629694
+Canada,NaN,Montreal,IKEA Montreal,9191 Boulevard Cavendish,NaN,45.492106315041575,-73.69139571724038
+Canada,NaN,North York,IKEA North York,15 Provost Drive,NaN,43.7671613,-79.3684319
+Canada,NaN,Ottawa,IKEA Ottawa,2685 Iris Street,NaN,45.3504895,-75.78386927406417
+Canada,NaN,Quebec City,IKEA Quebec City,3400 Avenue Blaise Pascal,NaN,46.77661730733896,-71.3494489865028
+Canada,NaN,Richmond,IKEA Richmond,3320 Jacombs Road,NaN,49.189357650000005,-123.07915198316408
+Canada,NaN,Toronto,IKEA Toronto Downtown - Aura,382 Yonge Street,NaN,43.6593280544564,-79.38243971544856
+Canada,NaN,Vaughan,IKEA Vaughan,200 Interchange Way,NaN,43.7872732,-79.52931452204724
+Canada,NaN,Winnipeg,IKEA Winnipeg,500 Sterling Lyon Parkway,NaN,49.83911805,-97.21173044827096
+Chile,NaN,NaN,IKEA Plaza Oeste,NaN,NaN,-33.46237981891261,-70.70585598294508
+Chile,NaN,NaN,IKEA Open Kennedy,NaN,NaN,-33.395130320219,-70.57652849471636
+China,ChaoYang ,Beijing,IKEA Beijing Siyuanqiao,No.59 Futong Eastern Street,100028,39.97780351552504,116.46350753966628
+China,Daxing,Beijing,IKEA Beijing Xihongmen,No.15 Xinning street,NaN,39.79147478917405,116.32379191205892
+China,Haidian,Beijing,IKEA Beijing Wukesong,"No.69 Court, Fuxing Road",NaN,39.79303339210639,116.32469697438134
+China,North New,Chongqing,IKEA Chongqing,No.2 Huiliu Road,NaN,29.634689295877795,106.56751408924504
+China,Jin'an,Fuzhou City,IKEA Fuzhou,NO.788 Fuma Road,NaN,26.0682083,119.36220828303796
+China,Guangdong,Foshan City,IKEA Foshan,No. 18 Guilan North Road Guicheng Street,NaN,23.057984373582464,113.15617279866102
+China,Tianhe,Guangzhou,IKEA Guangzhou Tianhe,"No.663, East Huangpu Avenue",NaN,23.104813834762265,113.4162899795909
+China,Panyu,Guangzhou,IKEA Guangzhou Panyu,"No.139 - 15, Dongyi Road",NaN,22.98099455173289,113.34332447651876
+China,Nanshan,Shenzhen,IKEA Shenzhen,Shahedong Street,NaN,22.55575830104124,113.96501764445992
+China,Nangang,Harbin,IKEA Harbin,No.48 Fudan Street,NaN,45.69733274683591,126.59474346806262
+China,Zhengzhou,Zhengzhou,IKEA Zhengzhou,No. 2 North Third Ring Road,NaN,34.78106805433464,113.7027783024882
+China,Qiaokou,Wuhan,IKEA Wuhan,No.2 Zhangbihu Road,NaN,30.58798447366342,114.2733203566219
+China,Yueli,Changsha,IKEA Changsha,No. 253 Yanghu Road,NaN,30.6186705735345,114.1670435397429
+China,NaN,Nanjing,IKEA Nanjing,No.99 Ming Shi road,NaN,31.99383988458771,118.79733755080164
+China,Gangzha,Nantong,IKEA Nantong,No.66 Huanghai Road,NaN,32.10183021613172,121.07344491599986
+China,Gaoxin,Suzhou,IKEA Suzhou ,No. 17 Chengji Road,NaN,31.372788886402464,120.52816762649822
+China,Xishan,Wuxi,IKEA Wuxi,No.1 Tuanjie Road,NaN,31.606285302762352,120.39552434928272
+China,Economic Development,Xuzhou,IKEA Xuzhou,"No.128, He Ping Road",NaN,34.2672506645553,117.36398732103292
+China,Xigang,Dalian,IKEA Dalian,"No.51, Haida South Street",NaN,38.93893357956276,121.60498935505724
+China,Tiexi,Shenyang,IKEA Shenyang,"No 20, Xinghua Bei Street",NaN,41.80714391494242,123.3799059961246
+China,NaN,Xi'an,IKEA Xi'an,3rd West Ring Road,NaN,34.28628916464427,108.84591085356888
+China,Laoshan,Qingdao,IKEA Qingdao,NO.15 Shenzhen Road,NaN,36.11290325165839,120.3702909294132
+China,Baoshan,Shanghai Baoshan,IKEA Shanghai Baoshan,NO.1818 Hutai Road,NaN,31.301630061661253,121.41739314605508
+China,Xuhui,Shanghai,IKEA Shanghai Xuhui,No.126 CaoXi road,NaN,31.1906785315828,121.43661922103225
+China,NaN,Shanghai,IKEA Shanghai Beicai,No. 550 Lin Yu road,NaN,31.170117653232445,121.56090206284892
+China,Jingan,Shanghai,IKEA Shanghai Jing'an,NO.1728 West Nanjing Road,NaN,31.2942351053322,121.41720167592116
+China,Chenghua,Chengdu,IKEA Chengdu Chenghua,No. 9 Jiang Jun Bei street Rong Du Road,NaN,30.6146691093584,104.0589546475698
+China,Gaoxing,Chengdu,IKEA Chengdu Gaoxin,Yizhou Avenue,NaN,30.73345198761404,104.10359715071796
+China,Dongli,Tianjin,IKEA Tianjin Dongli,No.433 Jintang Road,NaN,39.08031824870439,117.36315999789278
+China,Xiqing,Tianjin,IKEA Tianjin Zhongbei,No.7 Wanhui Road,NaN,39.091647873266005,117.31679845683936
+China,Yunnan,Kunming,IKEA Kunming,Wuhua,NaN,25.044478445897727,102.71557481101628
+China,Yuhang,Hangzhou,IKEA Hangzhou,No.5 West Qiaomo Road,NaN,30.180396099469277,120.25384453997016
+China,Zhejiang,Ningbo,IKEA Ningbo,NO.525 Yiyuan Road,NaN,29.84240379914893,121.60288062461603
+Croatia,NaN,Sesvete-Kraljevec,IKEA Zagreb,Ulica Alfreda Nobela 2,10361,45.83214834804998,16.15565247043798
+Cyprus,NaN,Strovolos,IKEA Nicosia,Verginas 1,2030,35.129828497442375,33.373164710646726
+Czech Republic,Dolní Heršpice,Brno,IKEA Brno,Skandinávská 4,NaN,49.1560598,16.6278112
+Czech Republic,Zábřeh,Ostrava,IKEA Ostrava,Rudná 110,NaN,49.7990733,18.22780476781016
+Czech Republic,Černý Most,Praha ,IKEA Praha – Černý Most,Chlumecká 664/10,NaN,50.10430755,14.587133838522572
+Czech Republic,NaN,Praha ,IKEA Praha – Zličín,Skandinávská 131/1,NaN,50.05106215,14.298311923884476
+Denmark,NaN,Taastrup,IKEA Taastrup,Mårkærvej 15,2630,55.6596389,12.286572749060822
+Denmark,NaN,Gentofte,IKEA Gentofte,Nybrovej 2,NaN,55.7532973,12.52046525359994
+Denmark,NaN,Odense,IKEA Odense,Ørbækvej 91,NaN,55.38055935,10.42977647439326
+Denmark,NaN,Aalborg,IKEA Aalborg,Krebsen 40,NaN,56.9959774,9.864966027653283
+Denmark,NaN,Aarhus N,IKEA Aarhus,Graham Bells Vej 7-11,NaN,56.202866,10.181239729483778
+Dominican Republic,NaN,NaN,IKEA Santo Domingo,NaN,10103,18.485335643731528,-69.93874391626086
+Dominican Republic,NaN,Punta Cana,IKEA Bavaro,NaN,23000,18.72202357173272,-68.37066661061345
+Dominican Republic,NaN,NaN,IKEA Santiago De Los Caballeros,NaN,NaN,19.53164226089661,-70.68328862810596
+Dominican Republic,NaN,NaN,Punto IKEA La Romana,NaN,NaN,18.54953581273243,-68.96072462380586
+Egypt,NaN,Cairo,IKEA Cairo Festival City,"Ring Road, 5th settlement",NaN,30.0300061,31.40763136350509
+Egypt,NaN,Giza,IKEA Mall of Arabia,Mall of Arabia,NaN,30.00853896960704,30.974877541275628
+Estonia,NaN,Kurna,IKEA Tallin,NaN,NaN,59.34084804912045,24.82807569995692
+Finland,NaN,Espoo,IKEA Espoo,Espoontie 21,NaN,60.2187635,24.6619818
+Finland,NaN,Kuopio,IKEA Kuopio,Ratarinteenkatu 2,NaN,62.8245234,27.6053001969524
+Finland,NaN,Raisio,IKEA Raisio,Itäniityntie 15,NaN,60.494661,22.2287419
+Finland,NaN,Tampere,IKEA Tampere,Leppästensuonkatu 4,NaN,48.41765805,-4.441792774888863
+Finland,NaN,Vantaa,IKEA Vantaa,Porttisuontie 18,NaN,60.2767911,25.08438095163229
+France,NaN,VEDENE,IKEA Avignon,100 CHEMIN DU PONT BLANC,NaN,43.97828055,4.891090036200591
+France,NaN,SAINT PIERRE D'IRUBE,IKEA Bayonne,2-4 Avenue du Pourtou,NaN,47.3406614,5.064350672866016
+France,NaN,BORDEAUX-LAC,IKEA Bordeaux,"AVENUE DES 40 JOURNAUX,",NaN,44.8869485753873,-0.5647654764122715
+France,NaN,GUIPAVAS,IKEA Brest,LES CHAMPS DE COATAUDON,NaN,48.9874997,2.2123186
+France,NaN,FLEURY SUR ORNE,IKEA Caen,970 rue de Suisse Normande,NaN,49.14564783332391,-0.3650004598718202
+France,NaN,CLERMONT FERRAND,IKEA Clermont-Ferrand,19 Boulevard Louis Chartoire,NaN,45.80400712235082,3.138846455329071
+France,NaN,DIJON,IKEA Dijon,1 RUE DE CRACOVIE,NaN,48.8693222,2.3257834
+France,NaN,EVRY,IKEA Evry,LE CLOS AUX POIS - LISSE,NaN,48.596303500000005,2.4391948184878784
+France,NaN,FRANCONVILLE,IKEA Franconville,337/339 RUE DU GENERAL LECLERC,NaN,50.6496069,2.97718537598007
+France,NaN,SAINT MARTIN D'HERES,IKEA Grenoble,150 AV GABRIEL PERI,NaN,45.18109825,5.775247455117047
+France,NaN,HENIN BEAUMONT,IKEA Hénin-Beaumont,BD OLOF PALME,NaN,49.14999425,6.188020000387743
+France,NaN,Paris,IKEA La Madeleine,23 BLD DE LA MADELEINE,NaN,43.60416745,3.923994950220648
+France,NaN,MARSEILLE,IKEA La Valentine,ZAC LA VALENTINE - LA RAVELLE,NaN,47.7314542,7.282639
+France,NaN,Lomme,IKEA Lille,RUE GRAND BUT,NaN,50.6496069,2.97718537598007
+France,NaN,VENISSIEUX,IKEA Lyon - Grand Parilly,9 rue Simone VEIL,NaN,43.70637085,7.1950778989475
+France,NaN,LA MAXE,IKEA Metz,RUE DU TROU AUX SERPENTS,NaN,47.8273918,1.91882220496194
+France,NaN,Montpellier,IKEA Montpellier,1 Place de Troie,NaN,43.60416745,3.923994950220648
+France,NaN,Morschwiller-le-bas,IKEA Mulhouse,Place Du Renne,NaN,48.8293765,1.967870305463642
+France,NaN,SAINT HERBLAIN CEDEX,IKEA Nantes,POLE ATLANTIS - BP 137,NaN,49.2579391,3.9641633857915006
+France,NaN,Nice,IKEA Nice St. Isidore,AVENUE PIERRE DE COUBERTIN,NaN,43.70637085,7.1950778989475
+France,NaN,Ardon,IKEA Orléans,ZAC DE LIMERE- RD POINT DE SOLOGNE,NaN,47.8273918,1.91882220496194
+France,NaN,ROISSY CHARLES DE G,IKEA Paris Nord,176 AVENUE DE LA PLAINE DE FRANCE,NaN,48.975398,2.494204181352458
+France,NaN,PLAISIR,IKEA Plaisir,202 RUE HENRI BARBUSSE,NaN,48.8293765,1.967870305463642
+France,NaN,THILLOIS,IKEA Reims,ZAC NORD THILLOIS,NaN,49.2579391,3.9641633857915006
+France,NaN,Pace,IKEA Rennes,RIVE OUEST - 14 AVENUE DES TOUCHES,NaN,48.137484,-1.7634654625391817
+France,NaN,Paris,IKEA Rivoli,144 RUE DE RIVOLI,NaN,48.8605081,2.3425212
+France,NaN,TOURVILLE LA RIVIERE,IKEA Rouen,AVENUE GUSTAVE PICARD,NaN,49.332239,1.097049048780491
+France,NaN,SAINT ETIENNE,IKEA Saint-Étienne,RUE JEAN HUSSE,NaN,45.44899127331029,4.419046168806572
+France,NaN,Strasbourg,IKEA Strasbourg,28 PLACE DES ABATTOIRS,NaN,48.6004206,7.730646377384712
+France,NaN,Thiais,IKEA Thiais,3 RUE DE LA RESISTANCE,NaN,48.75915965,2.3852859067324834
+France,NaN,TOULON,IKEA Toulon - La Valette-du-Var,ZAC DE VALGORA - BP 515,NaN,43.141795,6.0111300954225335
+France,NaN,Roques SUR GARONNE,IKEA Toulouse,9 ALLEE DE FRAIXINET,NaN,43.51705992201068,1.3766607245484273
+France,NaN,Tours,IKEA Tours,RUE DESIRE LECOMTE,NaN,47.3759939,0.7180565690451637
+France,NaN,VELIZY VILLACOUBLAY,IKEA Velizy,3 RUE DU PETIT CLAMART,NaN,48.7835019,2.2241969812027493
+France,NaN,VILLIERS SUR MARNE,IKEA Villiers,"33,35 RUE JEAN JAURES",NaN,48.82806802031709,2.530108384293914
+France,NaN,Vitrolles,IKEA Vitrolles,LA BASTIDE BLANCHE,NaN,43.4291333,5.267703166119439
+Ireland,NaN,"Ballymun, Dublin",IKEA Ballymun,Off St Magarets Road,NaN,53.42256694601083,-6.280170390363036
+Ireland,NaN,NaN,IKEA Naas,NaN,NaN,53.22652969165414,-6.657825397157015
+Israel,NaN,NaN,IKEA Kiryat Ata,"דרך חיפה 52, קריית אתא",NaN,32.808716,35.075505
+Israel,NaN,NaN,IKEA Rishon Lezion,"רח' היוזמה 1, מרכז עסקים שורק, כביש פלמחים",NaN,31.95204,34.770591
+Israel,NaN,NaN,IKEA Netanya,"רח' גיבורי ישראל 1, אזה""ת פולג",NaN,32.27339,34.859941
+Israel,NaN,NaN,IKEA Eshtaul,"המלאכה 7, אזה""ת הר טוב",NaN,31.774628,35.001948
+Israel,NaN,Beer Sheva,IKEA Beer Sheva,"הירדן 24, באר שבע",NaN,31.223638,34.820802
+Italy,NaN,Camerano,IKEA Ancona,Aspio Terme,NaN,43.5302951,13.51902421410653
+Italy,NaN,Bari,IKEA Bari,"Via Caduti del Lavoro, 3",NaN,41.0884025,16.898475991640836
+Italy,NaN,Casalecchio di Reno,IKEA Bologna Casalecchio,"Via John Lennon, 6",NaN,44.4872842,11.252044
+Italy,NaN,Roncadelle,IKEA Brescia Roncadelle,"Via M. D'Antona e M. Biagi, 9",NaN,45.5348171,10.1660782
+Italy,NaN,Catania,IKEA Catania,Uscita Zona Industriale Nord. Via Passo del Cavaliere,NaN,37.44639635,15.03532105756621
+Italy,NaN,San Giovanni Teatino,IKEA Chieti San Giovanni Teatino,"Via Regolizie, 22",NaN,42.3960922,14.16763353280142
+Italy,NaN,Sesto Fiorentino,IKEA Firenze Sesto Fiorentino,"Via Francesco Redi, 1",NaN,43.8070373,11.1872219
+Italy,NaN,Genova,IKEA Genova,"Via Luigi Perini, 5",NaN,44.42352914999999,8.88373826936877
+Italy,NaN,Vilesse,IKEA Gorizia Villesse,"Località' Maranuz, 1",NaN,45.86586037203468,13.43283232454436
+Italy,NaN,Carugate,IKEA Milano Carugate,"Via dell'Artigianato, 7",NaN,45.54995825,9.331646605677737
+Italy,NaN,Corsico,IKEA Milano Corsico,"Nuova via Marchesi, 4",NaN,45.4267395,9.079615506334957
+Italy,NaN,San Giuliano,IKEA Milano San Giuliano,"Via Po, 3",NaN,45.38879165,9.261206803909266
+Italy,NaN,Afragola,IKEA Napoli Afragola,Via E. Berlinguer 2,NaN,40.9091289,14.316229409499162
+Italy,NaN,Padova,IKEA Padova,"Via Fraccalanza, 1",NaN,45.4189783,11.932882479934015
+Italy,NaN,Parma,IKEA Parma,"Largo Benito Jacovitti, 11/A",NaN,44.83070955,10.36418375602132
+Italy,NaN,Pisa,IKEA Pisa,"Via Rino Ricci, 8",NaN,43.69277345,10.382708151212448
+Italy,NaN,Rimini,IKEA Rimini,Via Tolemaide 140,NaN,44.0790803,12.475543852408084
+Italy,NaN,Roma,IKEA Roma Anagnina,"Via Fattoria Rampa, 35",NaN,41.83543715,12.594016034210522
+Italy,NaN,Roma,IKEA Roma Porta di Roma,"Via Casale Redicicoli, 501",NaN,41.97276195,12.54154107669861
+Italy,NaN,Baronissi,IKEA Salerno Baronissi,Via Salvatore Allende - Località Orignano,NaN,40.7532923,14.788736059157554
+Italy,NaN,Collegno,IKEA Torino Collegno,"Viale Svezia, 1",NaN,45.0978594,7.581473226991665
+Japan,NaN,Sendai-shi,IKEA Sendai,2-1-2 Asuto Nagamachi,NaN,38.75014355458117,140.98401721947167
+Japan,NaN,Misato-shi,IKEA Shinmisato,2-2-2 Lala city Shinmisato,NaN,35.85637509207334,139.87053054135467
+Japan,NaN,Funabashi-shi,IKEA Tokyo-Bay,2-3-30 Hama-cho,NaN,35.682166144115705,139.99232924134876
+Japan,NaN,Tachikawa-shi,IKEA Tachikawa,6 Midori-cho,NaN,35.70609137293638,139.41214128367864
+Japan,NaN,Tokyo,IKEA Harajuku,1-14-30 Jingumae,NaN,35.67064056677457,139.70306339717123
+Japan,NaN,Tokyo,IKEA Shibuya,24-1 Udagawa-cho,NaN,35.66073294097205,139.69981874146558
+Japan,NaN,Tokyo,IKEA Shinjuku,3-1-13 Shinjuku,NaN,35.690278383331645,139.70473939717198
+Japan,NaN,Uokohama-shi,IKEA Kohoku,201-1 Orimoto-cho,NaN,35.52263524707268,139.59020485834438
+Japan,NaN,Nagakute-shi,IKEA Nagakute,1-Gaiku Tochikukaku-seiri Jigyouchi,NaN,35.17616118491466,137.0755574259901
+Japan,NaN,Osaka-shi,IKEA Tsuruhama,2-24-55 Tsurumachi,NaN,34.63697390876281,135.44988934131374
+Japan,NaN,Kobe-shi,IKEA Kobe,8-7-1 Minatojima Nakamachi,NaN,34.66449777359105,135.21864625480848
+Japan,NaN,Kasuya-gun,IKEA Fukuokashingu,2-9-1 Chuou Ekimae,NaN,33.71035392757586,130.45038478361286
+Jordan,NaN,Amman,IKEA Amman,Airport Road - Madaba Bridge,NaN,31.826193175800118,35.90114872588272
+Kuwait,NaN,NaN,IKEA Avenues,"Al Rai, Block 1",13037,29.301978782827064,47.92929836558801
+Latvia,NaN,NaN,IKEA Latvija,NaN,NaN,57.01462452213625,24.074067630813285
+Lithuania,NaN, Vilnius,IKEA Vilnius,NaN,NaN,54.65117748105005,25.280222284454577
+Macau,NaN,Taipa,IKEA Macau,Avenida de Kwong Tung,NaN,22.1608084,113.5535968
+Malaysia,NaN,Penang,IKEA Batu Kawan,"752, Persiaran Cassia Barat 8",NaN,5.2333164,100.44072286032532
+Malaysia,NaN,Kuala Lumpur,IKEA Cheras,No. 2A Jalan Cochrane,NaN,3.13525785,101.72118587172044
+Malaysia,Petaling Jaya Selangor Darul Ehsan,NaN,IKEA Damansara,"2, Jalan PJU 7/2 Mutiara Damansara",NaN,3.1569173,101.61285805513644
+Malaysia,NaN,Taman Desa Tebrau,IKEA Tebrau,"No 33, Jalan Harmonium",NaN,1.552308,103.79864034285416
+Mexico,NaN,Ciudad de México,IKEA Oceanía,"Encuentro Oceanía, Av. del Peñón 355",NaN,19.4406635,-99.0933889
+Mexico,Reserva Territorial Atlixcáyotl,Puebla,IKEA Puebla,"Centro comercial Vía San Ángel, Av. Atlixcáyotl 1504",NaN,19.02809801875984,-98.23728382785612
+Morocco,NaN,Mohammedia,IKEA Zenata,Highway Casablanca-Mohammedia Zenata motorway exit,NaN,33.6298495,-7.459404922794244
+Morocco,NaN,Tetouan,IKEA Cabo,Road to Cabo Negro,NaN,35.82457985518563,-5.285152683106161
+Netherlands,NaN,Amersfoort,IKEA Amersfoort,Euroweg 101,NaN,52.1845349,5.4173148
+Netherlands,NaN,Amsterdam,IKEA Amsterdam,Hullenbergweg 2,NaN,52.301821,4.950297278030456
+Netherlands,NaN,Barendrecht,IKEA Barendrecht,Hamburg 1,NaN,51.8494384,4.5125792
+Netherlands,NaN,Breda,IKEA Breda,Kruisweide 1,NaN,51.5842569,4.7343961
+Netherlands,NaN,Delft,IKEA Delft,OLOF PALMESTRAAT 1,NaN,52.01201585,4.38103027727095
+Netherlands,NaN,Duiven,IKEA Duiven,Biograaf 2,NaN,51.9672335,5.9944734
+Netherlands,NaN,Son,IKEA Eindhoven,Ekkersrijt 4089,NaN,51.499382,5.472685785904552
+Netherlands,NaN,Groningen,IKEA Groningen,Sontweg 9,NaN,53.2176686,6.5876168
+Netherlands,NaN,Haarlem,IKEA Haarlem,Laan van Decima 1,NaN,52.3854204,4.668050071987663
+Netherlands,NaN,Heerlen,IKEA Heerlen,In de Cramer 142,NaN,50.8993944,5.9451986
+Netherlands,NaN,Hengelo,IKEA Hengelo,Het plein 100,NaN,52.2887574,6.7678468
+Netherlands,NaN,Utrecht,IKEA Utrecht,Van Rensselaerlaan 7,NaN,52.0623866,5.099214253997554
+Netherlands,NaN,Zwolle,IKEA Zwolle,Diepholtstraat 3,NaN,52.5322998,6.1626789
+Norway,NaN,Sandnes,IKEA Forus,Grenseveien 2,NaN,58.887307,5.720938165517241
+Norway,NaN,Oslo,IKEA Furuset,Strømsveien 303,NaN,59.9334585,10.871762552647812
+Norway,NaN,Trondheim,IKEA Leangen,Landbruksveien 2,NaN,63.4282271,10.4737157
+Norway,NaN,Furnes,IKEA Ringsaker,Krokstadvegen 4,NaN,60.84003374127189,11.057313211745464
+Norway,NaN,Billingstad,IKEA Slependen,Nesbruveien 40,NaN,59.88721447790871,10.497256889308554
+Norway,NaN,Kristiansand,IKEA Sørlandet,Sydinga 20,NaN,58.1886,8.1567
+Norway,NaN,Nyborg,IKEA Åsane,Åsamyrane 250,NaN,60.47345,5.331207
+Oman,NaN,Muscat,IKEA Muscat,South Al Khuwair,NaN,23.81994349633853,58.37617316436247
+Philippines,NaN,Pasay City,IKEA Pasay City,Marina Way,NaN,14.53222497103341,120.98235313229436
+Poland,NaN,Bydgoszcz,IKEA Bydgoszcz,ul. Skandynawska 1,NaN,53.1321765,18.12089068503316
+Poland,NaN,Gdańsk,IKEA Gdansk,ul. Zlota Karczma 26,NaN,54.3730978,18.5172299
+Poland,NaN,Katowice,IKEA Katowice,al. W. Rozdzienskiego 95,NaN,50.27044105,19.059261880860905
+Poland,NaN,Kraków,IKEA Kraków,ul. Josepha Conrada 66,NaN,50.08930685,19.89748488440036
+Poland,NaN,Lublin,IKEA Lublin,Aleja Spółdzielczości Pracy 86,NaN,51.2818179,22.57288323097633
+Poland,NaN,Łódź,IKEA Łódź,ul. Pabianicka 255,NaN,51.7023412,19.4127147
+Poland,NaN,Poznań,IKEA Poznań,ul. Szwedzka 10,NaN,52.37871275,16.982900646849302
+Poland,NaN,Szczecin,IKEA Szczecin,ul. Białowieska 2,NaN,53.4072856,14.5134021
+Poland,NaN,Raszyn,IKEA Warszawa Janki,"Janki, pl. Szwedzki 1",NaN,52.133351213731935,20.895237961903184
+Poland,NaN,Warszawa,IKEA Warszawa Targówek,ul. Malborska 51,NaN,52.30582805,21.08287979681064
+Poland,NaN,Kobierzyce,IKEA Wrocław,"Bielany Wrocławskie, Czekoladowa 5A",NaN,51.0479802,16.9549785
+Portugal,Lisboa,Amadora,IKEA Alfragide,EN 117 Zona Industrial Alfragide,NaN,38.7289726,-9.216153845881054
+Portugal,NaN,Braga,IKEA Braga,Av. Do Cavado CC Nova Arcada,NaN,41.57809445,-8.430960254146001
+Portugal,NaN,Almancil,IKEA Loule,Avenida do Algarve n. 5,NaN,37.09737105,-7.995995875771184
+Portugal,Lisboa,Loures,IKEA Loures,EN 250 Rua 38 de Setembro,NaN,38.8174094,-9.14808448669726
+Portugal,NaN,Matosinhos,IKEA Matosinhos,Avenida Dr. Oscar Lopes,NaN,41.2103133,-8.688120462226685
+Puerto Rico,NaN,San Juan,IKEA Bayamon,NaN,961,18.514536761274453,-66.15884692797636
+Puerto Rico,NaN,Ponce,Punto IKEA ,NaN,NaN,17.998240566022183,-66.62943656110005
+Qatar,NaN,Doha,IKEA Doha,253 Al Shamal Road,NaN,25.38783195269195,51.43978975638727
+Romania,NaN,Bucharest,IKEA Baneasa,"Sector 1, Sos. Buchuresti-Ploiesti",NaN,44.50610401011578,26.08559853983009
+Romania,NaN,Bucharest,IKEA Pallady,"Bvd Pallady no 57, Sector 3",NaN,44.40974160488604,26.20988075487566
+Saudia Arabia,NaN,Dhahran,IKEA Dhahran,Prince Faisal Bin Fahad Street,NaN,26.309993936666757,50.16803838339813
+Saudia Arabia,NaN,Jeddah,IKEA Jeddah,Prince Mohammed bin Abdulaziz,NaN,21.55709883164557,39.18357656979261
+Saudia Arabia,NaN,Riyadh,IKEA Riyadh,Eastern Ring Road,NaN,24.97080442734182,47.085718631642166
+Saudia Arabia,NaN,Thumama,IKEA Thumamah,Al Munsiyah,NaN,24.84746246878251,46.76380608336152
+Serbia,Serbia,Beograd,IKEA Belgrad,Ulica Astrid Lindgren 11,11231,44.79231269483565,20.544616355963445
+Serbia,Serbia,Novi Sad,IKEA Novi Sad,Bulevar vojvode Stepe 36,21000,45.339356520982776,19.808532415448635
+Singapore,NaN,Alexandra,IKEA Alexandra,Alexandra Rd,159965,1.2878999,103.80603798155038
+Singapore,NaN,Singapore,IKEA Jurong,50 Jurong Gateway Road,NaN,1.3337869167649157,103.7438237936324
+Singapore,NaN,Singapore,IKEA Tampines,60 Tampines North Drive 2,528764,1.37406645,103.93239854406151
+Slovakia,NaN,Bratislava,IKEA Bratislava,Ivanska cesta 4329/18,821 04,48.168471534006265,17.183113255325438
+Slovenia,NaN,Ljubljana,IKEA Ljubljana,Svedska ul. 6,NaN,46.33934332630309,14.60789242839678
+South Korea,Deogyang-gu,Goyang-Si,IKEA Goyang,"420, Gwonyul-daero",NaN,37.63006204267342,126.86309191442868
+South Korea,NaN,Gwangmyeong-si,IKEA Gwangmyeong,#17 Iljik-ro,NaN,37.42423856523279,126.8829210414089
+South Korea,NaN,Gyeonggi-do yongin-si,IKEA Giheung,Giheung-gu singomae-ro 62,NaN,37.2227492452094,127.11639327578104
+South Korea,GIJANG-GUN,BUSAN-SI,IKEA Dongbusan,GIJANG-EUP DONGBUSANGWANGWANG3-RO17,NaN,35.190570704929044,129.21016889900295
+Spain,NaN,A Coruña,IKEA A Coruña,Carretera Baños de Arteixo 45 A Grela,15008,43.34469342504848,-8.429605995154066
+Spain,NaN,Alcorcón,IKEA Alcorcón,1. Pol. Industrial El Lucero,28922,40.350619654801264,-3.8558385891679214
+Spain,Pola de Siero,Asturias,IKEA Asturias,"C.C. Intu Asturias, A-66 KM 4,5",NaN,40.350644184025,-3.855881504509604
+Spain,NaN,Barcelona,IKEA Badalona,Pol. Carrer de Luxemburgo,NaN,41.459389793296175,2.226029383671345
+Spain,Bilbao,Barakaldo,IKEA Barakaldo,"Megapark, Erribera Etorbidea",NaN,43.2914971,-3.006871851498368
+Spain,Madrid,Ensanche de Vallecas,IKEA Ensanche de Vallecas,Alto del Retiro 33,28051,40.36982680927508,-3.595778316154703
+Spain,NaN,Madrid,IKEA Goya,Calle Goya 47,NaN,40.4252733,-3.6823529
+Spain,Barcelona,L'Hospitalet de Llobregat,IKEA Hospitalet (Gran Via),Avda Gran Via 115-134 Dist Economic,NaN,41.35566733218835,2.1242639722369114
+Spain,Cadiz,Jerez de la Frontera,IKEA Jerez,Avenida Escandinavia,NaN,36.69709300927591,-6.162001773958248
+Spain,Madrid,Las Rozas,IKEA Las Rozas,Calle Cabo de Rufino Lazaro num 2,NaN,40.50183704371999,-3.8879914490656855
+Spain,NaN,Málaga,IKEA Málaga,"Avenida Velázquez, 389",NaN,36.65792260974237,-4.482287500947072
+Spain,NaN,Murcia,IKEA Murcia,Avenida Don Juan de Borbon,NaN,38.02749900514628,-1.1455728008988657
+Spain,Barcelona,Sabadell,IKEA Sabadell,"Calle Serra dels Galliners, 70",NaN,41.51066022020253,2.1069635262178417
+Spain,Madrid,San Sebastian de los Reyes,IKEA San Sebastian de los Reyes,"Pza del Comercio s/n, Mega Park",NaN,40.54590212235108,-3.6118557854646856
+Spain,NaN,Sevilla,IKEA Sevilla,"Autovia Sevilla-Huelva salida 2, Castilleja de la Cuesta",NaN,37.38416132906012,-6.046998460440475
+Spain,Valencia,Alfafar,IKEA Valencia (Alfafar),"Calle Alquería Nova, 12",NaN,39.41523796525622,-0.3872700008485285
+Spain,NaN,Arroyo de la Encomienda Valladolid,IKEA Valladolid,"Calle Me falta un tornillo, 5",NaN,41.627983147981965,-4.787936858435964
+Spain,P. Venecia,Zaragoza,IKEA Zaragoza,C/ Teatro Malibran 30,NaN,41.60733466641056,-0.8912493663866595
+Sweden,NaN,Borlänge,IKEA Borlänge,Norra Backagatan 1,78170,60.4818216,15.421278182856952
+Sweden,NaN,Valbo,IKEA Gävle,Valbovägen 307,81832,60.6340527,16.989734159312693
+Sweden,NaN,Hisings backa,IKEA Göteborg Bäckebol,Transportgatan 23,42246,57.77445211107404,12.001961913440503
+Sweden,NaN,Kållered,IKEA Göteborg Kållered,Ekenleden 2,42836,57.6017203,12.0496137
+Sweden,NaN,Haparanda,IKEA Haparanda,Norrskensvägen 2,953 36,65.8434269,24.131835942435664
+Sweden,NaN,Ödåkra,IKEA Helsingborg,Marknadsvägen 7,25469,56.0913039,12.7634952
+Sweden,NaN,Jönköping,IKEA Jönköping,A6 Center,55305,57.7682343,14.204565052183163
+Sweden,NaN,Kalmar,IKEA Kalmar,Bilbyggarvägen,392 39,56.68565215,16.321955841186444
+Sweden,NaN,Karlstad,IKEA Karlstad,Bergviksvägen 43,653 46,59.378916,13.422215
+Sweden,NaN,Linköping,IKEA Linköping,Västra Svedengatan 7,581 11,58.4327655,15.5884341
+Sweden,NaN,Malmö,IKEA Malmö,Kulthusgatan 1,215 86,55.547998,12.9919441
+Sweden,NaN,Malmö,IKEA Malmö - Triangeln,Södra Förstadsgatan 41,211 43,55.547998,12.9919441
+Sweden,NaN,Barkarby,IKEA Stockholm Barkarby,Folkungavägen 50,17738,59.42139215,17.85895893602526
+Sweden,NaN,Kungens Kurva,IKEA Stockholm Kungens Kurva,Ekgårdsvägen 1,14175,59.27101272567903,17.91654072700828
+Sweden,NaN,Stockholm,IKEA Stockholm Gallerian,Hamngatan 37,11151,59.3303047,18.0678222
+Sweden,NaN,Sundsvall,IKEA Sundsvall,Gesällvägen 3,857 53,62.4455642,17.335678
+Sweden,NaN,Uddevalla,IKEA Uddevalla,Östra Torpvägen 30,45176,58.3563951,11.818809175036325
+Sweden,NaN,Umeå,IKEA Umeå,Marknadsgatan 15,90422,63.80821213472754,20.253636656074992
+Sweden,NaN,Uppsala,IKEA Uppsala,Rapsgatan 3,753 23,59.84723425,17.69478661368354
+Sweden,NaN,Västerås,IKEA Västerås,Domkraftsvägen 2,721 38,59.6095403,16.456586
+Sweden,NaN,Älmhult,IKEA Älmhult,Handelsvägen 4,34333,56.55067901841969,14.163069635781016
+Sweden,NaN,Örebro,IKEA Örebro,Kundvägen 2,702 31,59.2115794991857,15.134479213999647
+Switzerland,NaN,Aubonne,IKEA Aubonne,Pre Neuf,NaN,46.47667595,6.397191561871442
+Switzerland,NaN,Dietlikon,IKEA Dietlikon,Moorstrasse 3,NaN,47.41390445,8.623292113591923
+Switzerland,NaN,Grancia,IKEA Grancia,Centro Lugano Sud,NaN,45.973088213589904,8.926432411055103
+Switzerland,NaN,Lyssach,IKEA Lyssach,Bernstrasse 25,NaN,47.0744883,7.569833361548579
+Switzerland,NaN,Pratteln,IKEA Pratteln,Grussenweg 21,NaN,47.527613,7.688692005263109
+Switzerland,NaN,Rothenburg,IKEA Rothenburg,Wahligenstrasse 6,NaN,47.0975213,8.24351500850463
+Switzerland,NaN,Spreitenbach,IKEA Spreitenback,Muslistrasse 16,8957,47.42187448349935,8.375661239951691
+Switzerland,NaN,St. Gallen,IKEA St. Gallen,Zurcherstrasse 460,NaN,47.4087005,9.307348138626722
+Switzerland,NaN,Vernier,IKEA Vernier,"156, Route de Vernier",1214,46.21969956701594,6.094724770584178
+Thailand,NaN,Sao Thong Hin,IKEA Bang Yai,109 Rattanathibet Rd,NaN,13.878802371284657,100.41233171013836
+Thailand,NaN,Bangkaew,IKEA Bangna,"38 Moo 6, Bangna-Trad Rd",10540,13.644868076967825,100.6796415595188
+Taiwan,NaN,Taipei ,IKEA Nei Hu,"No. 128, Sec. 1, Jiuzong Rd.",114,25.115756258705783,121.59058946341813
+Taiwan,NaN,New Taipei,IKEA Hsin Chuang,No. 1 Zhongzheng Road,242,25.041526590817213,121.46491042384744
+Taiwan,NaN,New Taipei,IKEA Xin Dian,"4th floor, No.159, Zhongyang Road",NaN,24.97277574492937,121.53007705452926
+Taiwan,NaN,Taichung,IKEA Tai Chung,"No. 168, Section 2, Xiangshang Road",NaN,24.147564634748434,120.64322946800296
+Taiwan,NaN,Chiay,IKEA Chia Yi,"1F, No. 281, Sec. 2, Bo'ai Rd",60059,23.500875739340906,120.43368315021183
+Taiwan,NaN,Kaohsiung,IKEA Kao Hsiung,"No. 1201, Zhonghua 5th Road",NaN,22.64009362105062,120.41165776337832
+Taiwan,NaN,Taipei,IKEA Taipei ,B1 No. 100 Dun Hwa N.Road,NaN,25.05255791228232,121.54843811035404
+Taiwan,NaN,Taoyuan,IKEA Tao Yuan,Gaotiezhanqian East Road,NaN,25.02701176087968,121.218895896357
+Turkiye,Central Anatolia,Ankara,IKEA Ankara,Doğukent Cd. No:215,6480,39.8884849,32.932677
+Turkiye,NaN,Antalya,IKEA Antalya,Antalya Cd. No:14,7170,36.9140201,30.7688993
+Turkiye,NaN,Bayrampaşa,IKEA Bayrampaşa,Paşa Cd. No:1,34045,41.04457,28.897962797037604
+Turkiye,NaN,Osmangazi,IKEA Bursa,Yeni Yalova yolu Cd. No:485,16245,40.2670357,29.055585990733388
+Turkiye,NaN,Bornova,IKEA İzmir,372.Sok. No:34,35100,38.45175491952941,27.213042181926717
+Turkiye,NaN,Kartal,IKEA Kartal,Soğanlık D-100 Yan yol Cd.,34880,40.9186719,29.1753573
+Turkiye,NaN,Ümraniye,IKEA Ümraniye,Balkan Cd. No:62,3471,41.02537586013633,29.127313499211773
+Ukraine,NaN,Kyiv,IKEA Kyiv,"Stepana Bandery Ave, 36",4073,50.49002287591687,30.510175615090223
+United Arab Emirates,NaN,Abu Dhabi,IKEA Abu Dhabi,YAS Island,52718,24.50176467035414,54.61872061101987
+United Arab Emirates,NaN,Dubai,IKEA Dubai Festival City,Dubai Festival City,50618,25.22377157156403,55.35555809871242
+United Arab Emirates,NaN,Dubai,IKEA Dubai Jebel Ali,Festival Plaza Mall,1811,25.02908542518664,55.1065165833659
+United Kingdom,NaN,Belfast,IKEA Belfast,306 Airport RD W,BT3 9EJ,54.62142875,-5.863204931388879
+United Kingdom,NaN,Bristol,IKEA Bristol,Eastgate Road,BS5 6XX,51.47258995,-2.564716148527268
+United Kingdom,NaN,Cardiff,IKEA Cardiff,Ferry Road,CF11 0XR,51.46271765,-3.188773839202602
+United Kingdom,NaN,Croydon,IKEA Croydon,Hesterman Way,CR0 4YA,51.38138895,-0.1247124634088163
+United Kingdom,NaN,Edinburgh,IKEA Edinburgh,Costkea way,EH20 9BY,55.88003587019507,-3.1685730731577
+United Kingdom,NaN,Exeter,IKEA Exeter,1 IKEA WAY,EX2 7RX,50.70704845,-3.478524182649387
+United Kingdom,NaN,Gateshead,IKEA Gateshead,Metro Park West,NE11 9XS,54.9580265,-1.680911693210858
+United Kingdom,NaN,Glasgow,IKEA Glasgow,99 Kings Inch Drive,G51 4FB,55.869358,-4.358209363601189
+United Kingdom,NaN,"London, Greenwich",IKEA Greenwich,55-57 Bugsby's Way,SE10 0QJ,51.48995100597688,0.0158614536246405
+United Kingdom,NaN,London,IKEA Hammersmith,King Street Hammersmith,W6 9HW,51.4929003,-0.2279545
+United Kingdom,NaN,Essex,IKEA Lakeside,Heron Way,RM20 3WJ,51.479658989061136,0.2841660996492344
+United Kingdom,NaN,Birstall,IKEA Leeds,Holden Ing Way,WF17 9AE,53.7450678,-1.6489515
+United Kingdom,NaN,Greater Manchester,IKEA Manchester,110 Wellington Road,OL6 7TE,53.491108,-2.1006133438397505
+United Kingdom,NaN,Milton Keynes,IKEA Milton Keynes,Off Bletcham Way,MK1 1QB,52.00526295,-0.7291329711071897
+United Kingdom,NaN,Nottingham,IKEA Nottingham,Ikea Way,NG16 2RP,53.0024149,-1.2840238
+United Kingdom,NaN,Reading,IKEA Reading,Pincents Kiln Industrial Pk,RG31 7SD,51.44188375,-1.0675548140754776
+United Kingdom,NaN,Tinsley,IKEA Sheffield,Sheffield Road,S9 2YL,53.40729490696858,-1.4106273886163383
+United Kingdom,NaN,Southampton,IKEA Southampton,West Quay Road,SO15 1GY,50.9030418,-1.4113015
+United Kingdom,NaN,Warrington,IKEA Warrington,910 Europe Boulevard,WA5 7TY,53.4165455,-2.6266073
+United Kingdom,NaN,Wednesbury,IKEA Wednesbury,Park Lane,WS10 9SF,52.56962535,-2.0154747587799857
+United Kingdom,NaN,London,IKEA Wembley,2 Drury Way,NW10 0TH,51.5535542,-0.2591793782619108
+United States,AZ,Tempe,IKEATempe,2110 West IKEA Way,85284,33.340977800000005,-111.97051135181616
+United States,CA,Burbank,IKEA Burbank,600 South IKEA Way,91502,34.1745959,-118.30301720605146
+United States,CA,Carson,IKEA Carson,20700 South Avalon Boulevard,90746,33.84208635,-118.25989241696593
+United States,CA,Costa Mesa,IKEA Costa Mesa,1475 South Coast Drive,92626,33.690974,-117.91647006339652
+United States,CA,Covina,IKEA Covina,848 South Barranca Avenue,91723,34.07422225,-117.87913742158042
+United States,CA,East Palo Alto,IKEA East Palo Alto,1700 East Bayshore Road,94303,37.4610558,-122.1393738
+United States,CA,Emeryville,IKEA Emeryville,4400 Shellmound Street,94608,37.8317176,-122.29195124275245
+United States,CA,San Diego,IKEA San Diego,2149 Fenton Parkway,92108,32.78017615,-117.12644773668436
+United States,CA,West Sacramento,IKEA West Sacramento,700 IKEA Court,95605,38.5866454,-121.55356413697707
+United States,CO,Centennial,IKEA Centennial,9800 E. IKEA Way,80112,39.57192905,-104.87506828913334
+United States,CT,New Haven,IKEA New Haven,450 Sargent Drive,6511,41.2959499,-72.92005602699217
+United States,FL,Jacksonville,IKEA Jacksonville,7801 Gate Parkway,32256,30.2382359,-81.5162915
+United States,FL,Miami,IKEA Miami,1801 NW 117th Ave,33172,25.79143085,-80.38370913586371
+United States,FL,Orlando,IKEA Orlando,4092 Eastgate Dr,32839,28.48255885,-81.42752638711488
+United States,FL,Sunrise,IKEA Sunrise,151 NW 136th Ave,33325,26.1221352,-80.33197946047238
+United States,FL,Tampa,IKEATampa,1103 N. 22nd Street,33605,27.9539567,-82.43184139446038
+United States,GA,Atlanta,IKEA Atlanta,441 16th Street,30363,33.7884437,-84.4053911
+United States,IL,Bolingbrook,IKEA Bolingbrook,750 E. Boughton,60440,41.7280048,-88.0378131295123
+United States,IL,Schaumburg,IKEA Schaumburg,1800 East McConner Parkway,60173,42.0569743,-88.0360186
+United States,IN,Fishers,IKEA Fishers,11400 IKEA Way,46037,39.9534713,-86.007178
+United States,KS,Merriam,IKEA Merriam,6000 IKEA Way,66202,39.0197355,-94.6904064
+United States,MA,Stoughton,IKEA Stoughton,One IKEA Way,2072,42.138135,-71.06828813627145
+United States,MD,Baltimore,IKEA Baltimore,8352 Honeygo Boulevard,21236,39.37530895,-76.46174552032275
+United States,MD,College Park,IKEA College Park,10100 Baltimore Avenue,20740,39.02059455,-76.92891796016653
+United States,MI,Canton,IKEA Canton,41640 Ford Road,48187,42.3254257,-83.4518578962684
+United States,MN,Bloomington,IKEA Minneapolis,8000 IKEA Way,55425,44.8588097,-93.24489832946716
+United States,MO,St. Louis,IKEA St. Louis,1 IKEA Way St. Louis,63108,38.6333112,-90.24491414469952
+United States,NC,Charlotte,IKEA Charlotte,8300 IKEA Boulevard,28262,35.29335,-80.7649942
+United States,NJ,Elizabeth,IKEA Elizabeth,1000 Center Drive,7201,40.675876,-74.16818416541635
+United States,NJ,Paramus,IKEA Paramus,100 IKEA Drive,7652,40.92418485,-74.07323312006444
+United States,NV,Las Vegas,IKEA Las Vegas,6500 IKEA Way,89148,36.06888615,-115.28077350272916
+United States,NY,Brooklyn,IKEA Brooklyn,1 Beard Street,11231,40.6720313,-74.01305480193486
+United States,NY,Hicksville,IKEA Long Island,1100 Broadway Mall,11801,40.7743968,-73.5314
+United States,OH,Columbus,IKEA Columbus,1900 IKEA Way,43240,40.1504704,-82.96693553296723
+United States,OH,West Chester,IKEA West Chester,9500 IKEA Way,45069,39.3150967,-84.43426291208286
+United States,OR,Portland,IKEA Portland,10280 NE Cascades Parkway,97220,45.5712477,-122.554142
+United States, PA,Conshohocken,IKEA Conshohocken,400 Alan Wood Road,19428,40.094450300000005,-75.3065955903482
+United States, PA,Pittsburgh,IKEA Pittsburgh,2001 Park Manor Boulevard,15205,40.4523133,-80.1616996
+United States,PA,South Philadelphia,IKEA South Philadelphia,2206 S. Christopher Columbus Blvd,19148,39.917090650000006,-75.14184418593814
+United States,TN,Memphis,IKEA Memphis,7900 IKEA Way,38016,35.1901067,-89.79891682750161
+United States,TX,Frisco,IKEA Frisco,7171 IKEA Drive,75034,33.0936814,-96.82111383832958
+United States,TX,Grand Prairie,IKEA Grand Prairie,1000 IKEA Way,75052,32.690482,-97.022167640716
+United States,TX,Houston,IKEA Houston,7810 Katy Freeway,77024,29.7856928,-95.47165713926884
+United States,TX,Live Oak,IKEA Live Oak,1000 IKEA RBFCU Parkway,78233,29.5662586,-98.33808245821275
+United States,TX,Round Rock,IKEA Round Rock,1 IKEA Way,78665,30.5575868,-97.69011052407302
+United States, UT,Draper,IKEA Draper,67 West IKEA Way,84020,40.50867245,-111.89333532433598
+United States, VA,Norfolk,IKEA Norfolk,1500 IKEA Way,23502,36.87635,-76.20127826240403
+United States, VA,Woodbridge,IKEA Woodbridge,2900 Potomac Mills Circle,22192,38.6434668,-77.2889851
+United States, WA,Renton,IKEA Renton,601 S.W. 41st Street,98057,47.4425408,-122.228563485116
+United States, WI,Oak Creek,IKEA Oak Creek,7500 S. IKEA Way,53154,42.9075831,-87.93869524320453
+Germany,NaN,Gersthofen,IKEA Augsburg,Otto-Hahn-Straße 99,NaN,48.4049251,10.871277417487423
+Germany,NaN,Berlin,IKEA Berlin-Lichtenberg,Landsberger Allee 364,NaN,52.5338376,13.514576986772992
+Germany,NaN,Würzburg,IKEA Würzburg,Mainfrankenhöhe 2,NaN,49.8222642,9.983571337749249
+Germany,NaN,Wuppertal,IKEA Wuppertal,Schmiedestraße 81,NaN,51.3100738,7.255435366445679
+Germany,NaN,Wetzlar,IKEA Wetzlar,Hermannsteiner Straße 13,NaN,50.568839,8.4973296
+Germany,NaN,Walldorf,IKEA Walldorf,Josef-Reiert-Straße 9,NaN,49.30622715,8.629066327476107
+Germany,NaN,Hofheim-Wallau,IKEA Wallau,Am Wandersmann 2-4,NaN,50.05815252373476,8.372181951164938
+Germany,NaN,Ulm,IKEA Ulm,Blaubeurer Straße 10,NaN,48.4040594,9.976917489107528
+Germany,NaN,Sindelfingen,IKEA Sindelfingen,Hanns-Martin-Schleyer-Straße 2,NaN,48.70182,9.00559095563754
+Germany,NaN,Siegen,IKEA Siegen,Wallhausenstraße 60,NaN,50.86282435,8.002410722785793
+Germany,NaN,Saarlouis,IKEA Saarlouis,Im Hader 1-3,NaN,49.29446675,6.759245641217161
+Germany,NaN,Rostock,IKEA Rostock,Messestraße 25,NaN,54.1087845,12.051751314625228
+Germany,NaN,Regensburg,IKEA Regensburg,Sulzfeldstraße 7,NaN,49.0017283,12.177903461946473
+Germany,NaN,Potsdam,IKEA Potsdam,Brandenburger Strasse 5,NaN,52.3996568,13.0494261
+Germany,NaN,Osnabrück,IKEA Osnabrück,Rheiner Landstraße 215,NaN,52.26310235,7.971151995228637
+Germany,NaN,Oldenburg,IKEA Oldenburg,Holler Landstraße 89,NaN,53.13986305,8.254943246719332
+Germany,NaN,Fürth,IKEA Nürnberg-Fürth,Hans-Vogel-Straße 110,NaN,49.4855326,11.009877504271383
+Germany,NaN,Eching,IKEA München-Eching,Heisenbergstraße 14,NaN,48.3043029,11.63364836346154
+Germany,NaN,Taufkirchen,IKEA München-Brunnthal,Brunnthaler Straße 1,NaN,48.040427,11.657710998213949
+Germany,NaN,Mannheim,IKEA  Mannheim,Frankenthaler Straße 123,NaN,49.555922800000005,8.443909380639731
+Germany,NaN,Magdeburg,IKEA Magdeburg,Ebendorfer Chaussee 70,NaN,52.1680498,11.6121139
+Germany,NaN,Ludwigsburg,IKEA Ludwigsburg,Heinkelstraße 10,NaN,48.9181348,9.153899549484535
+Germany,NaN,Lübeck,IKEA  Lübeck,Dänischburger Landstraße 79-81,NaN,53.9122234,10.736093877995849
+Germany,NaN,Köln,IKEA Köln-Godorf,Godorfer Hauptstraße 171,NaN,50.86166675,6.970950136292636
+Germany,NaN,Köln,IKEA Köln-Am Butzweilerhof,Butzweilerstraße 51,NaN,50.9848481,6.896930342671184
+Germany,NaN,Koblenz,IKEA Koblenz,An der Römervilla 1,NaN,50.38218125,7.568111823869297
+Germany,NaN,Kiel,IKEA Kiel,Westring 1,NaN,54.3140536,10.107308768923598
+Germany,NaN,Kassel,IKEA Kassel,Heinrich-Hertz-Straße 25,NaN,51.2778826,9.525668319920634
+Germany,NaN,Karlsruhe,IKEA Karlsruhe,Durlacher Allee 97,NaN,49.0053564,8.44132224999261
+Germany,NaN,Kamen,IKEA Kamen,Kamen Karree 1,NaN,51.56947365,7.6691737074462365
+Germany,NaN,Kaiserslautern,IKEA Kaiserslautern,Opelkreisel 3,NaN,49.4403617,7.701135478637552
+Germany,NaN,Kaarst,IKEA Kaarst,Hans-Dietrich-Genscher-Straße 1,NaN,51.2168872,6.6303087
+Germany,NaN,Hannover,IKEA Hannover EXPO-Park,Straße der Nationen 10,NaN,52.3135579,9.81679615719048
+Germany,NaN,Hanau,IKEA Hanau,Oderstraße 21,NaN,50.14966865,8.942291576715107
+Germany,Schnelsen,Hamburg,IKEA Hamburg-Schnelsen,Wunderbrunnen 1 ,NaN,53.6488893,9.928075791381984
+Germany, Moorfleet,Hamburg,IKEA Hamburg-Moorfleet,Unterer Landweg 77,NaN,53.5107771,10.092967600140668
+Germany,Altona,Hamburg,IKEA Hamburg-Altona,Große Bergstraße 164,NaN,53.551352050000006,9.94165667444799
+Germany,NaN,Leuna,IKEA Halle Leipzig,Nordpark 17,NaN,51.3487443,12.182998057994883
+Germany,NaN,Hannover,IKEA Großburgwedel,Isernhägener Straße 14 Burgwedel,NaN,52.49238095,9.837792042290095
+Germany,NaN,Freiburg,IKEA Freiburg,Hermann-Mitsch-Straße 61,NaN,48.02829,7.832626091209107
+Germany,Niedereschbach,Frankfurt,IKEA Frankfurt,Züricher Straße 7,NaN,50.1958275,8.6568717
+Germany,NaN,Essen,IKEA Essen,Altendorfer Straße 2,NaN,51.4600915,7.001008632367112
+Germany,NaN,Erfurt,IKEA Erfurt,Eisenacher Straße 50,NaN,50.95948295,10.948946738853948
+Germany,NaN,Düsseldorf,IKEA Düsseldorf,Oerschbachstraße 75,NaN,51.1878434,6.8494561
+Germany,NaN,Duisburg,IKEA Duisburg,Beecker Straße 80,NaN,51.482237,6.763883219488246
+Germany,NaN,Dresden,IKEA Dresden,Peschelstraße 25,NaN,51.08663985,13.695074739292233
+Germany,NaN,Dortmund,IKEA Dortmund,Borussiastraße 120,NaN,51.4911182,7.369520583145838
+Germany,NaN,Chemnitz,IKEA Chemnitz,Im Neefepark 5,NaN,50.80222235,12.859665495098245
+Germany,NaN,Brinkum,IKEA Brinkum,Henleinstraße 1A,NaN,53.0264711,8.8036115799014
+Germany,NaN,Bremerhaven,IKEA Bremerhaven,Weserstraße 1i,NaN,53.48895195,8.605613497151445
+Germany,NaN,Braunshweig,IKEA Braunschweig,Hansestraße 27,NaN,52.30915851265868,10.504591284356176
+Germany,NaN,Bielefeld,IKEA Bielefeld,Südring 7,NaN,51.9819928,8.492157947129506
+Germany,NaN,Schönefeld,IKEA Berlin Waltersdorf,Am Rondell 8,NaN,52.3669092,13.555644614991262
+Germany,Tempelhof,Berlin,IKEA Berlin Tempelhof,Sachsendamm 47,NaN,52.46961175,13.366341067536146
+Germany,NaN,Berlin,IKEA Berlin-Spandau,Gewerbehof 10,NaN,52.5282537,13.214530040848445
+Greece,Sparta,Athens,IKEA Athens Airport,Eleftherios Venizelos,19019,37.95376042859736,23.92129587148912
+Greece,Egaleo,Athens,IKEA Athens Kifissos,Kifissos Avenue ,12241,38.003377776910376,23.67757825888824
+Greece,NaN,Thessaloniki,IKEA Thessaloniki,12 km Thessaloniki Perea,57001,40.58865203670168,22.97445325877807
+Greece,Nikaia,Larissa,IKEA Thessalia,8 km Old National Highway ,41500,40.55067920890902,22.984964857369903
+Greece,NaN,Ioannina,IKEA Ioannina,13 km National Highway ,45500,39.55026732391863,20.871828368978903
+Hong Kong,NaN,Causeway Bay,IKEA Causeway Bay,310 Glouchester Road,NaN,22.281351729387165,114.18641806854563
+Hong Kong,NaN,Kowloon Bay,IKEA Kowloon Bay,38 Want Chiu Road,NaN,22.319782335733574,114.2085047685464
+Hong Kong,NaN,Sha Tin,IKEA Shatin,138 Sha Tin Rural Committee Road,NaN,22.385565546279544,114.18780205505544
+Hong Kong,NaN,Tusen Wan,IKEA Tsuen Wan,388 Castle Peak Road,NaN,22.37543916600326,114.11310084654484
+Macau,NaN,Taipai,IKEA Macau,515 Afenida de Kwong Tung,NaN,22.161757255700245,113.55346563951989
+Hungary,NaN,Budaörs,Budaörsi IKEA,Sport utca 2–4,NaN,47.45419925317937,18.94001634226102
+Hungary,NaN,Budapest,Örs vezér téri IKEA,ÖRS VEZER TERE,NaN,NaN,NaN
+Hungary,NaN,Budapest,Soroksári IKEA,Bevásárló utca 4,NaN,NaN,NaN
+Iceland,NaN,Bardabaer,NaN,Kauptun 4,NaN,64.1336130349827,-21.92095144649322
+India,Telangana,Hyderabad,IKEA Hyderabad,"Panmaqtha, Rangareddy",500032,17.43875905,78.37512357460284
+India,Maharashtra,Navi Mumbai,IKEA Navi Mumbai,"Turbhe MIDC, Turbhe",400705,19.08207435,73.01886438379027
+India,Maharastra,Mumbai,IKEA Worli City,Pandurang Budhkar Marg,400013,19.0060738,72.82685674598821
+India,Karnataka,Bengaluru,IKEA Bengaluru,"Manjunatha Nagar, Bagalakunte",560073,13.0494613,77.5003859847279
+India,Maharashtra,Mumbai,IKEA R City,"Ghatkopar, LBS Marg",400086,NaN,NaN
+Indonesia,Tangerang,Alam Sutera,IKEA Alam Sutera,Jl. Jalur Sutera Boulevard No. 45 ,15144,NaN,NaN
+Indonesia,Jawa Barat,Kabupaten Bogor,IKEA Sentul,"Jl. MH. Thamrin, Citaringgul",16810,NaN,NaN
+Indonesia,"Kabupaten Badung, Kuta",Bali,IKEA Bali,Jl. Patih Jelantik,80361,NaN,NaN
+Indonesia,Jakarta Timur, Jakarta Garden City,IKEA Jakarta Garden City,Jl. Jakarta Garden City Boulevard,13910,NaN,NaN
+Indonesia,Jawa Barat,"Kertajaya, Padalarang",IKEA Kota Baru Parahyangan,Jl. Parahyangan Raya No.kav. 9,40553,NaN,NaN
+Indonesia,Daerah Khusus Ibukota Jakarta,Kota Jakarta Barat,IKEA Mal Taman Anggrek,Jl. Letjen S. Parman No.Kav. 21,11440,NaN,NaN
+Indonesia,Jawa Timur ,Kota Surabaya,IKEA Surabaya,Jl. Mayjen Sungkono No.89,60224,NaN,NaN
