@@ -11,7 +11,7 @@ China was an especially difficult country. Google maps is not often used there a
 
 
 # Results
-![World IKEA Location]("/graphics/World_IKEA.png")
+![World IKEA Location]("https://github.com/finli/IKEA_Location/tree/main/graphics/World_IKEA.png")
 This is a map with all the IKEAs in the world. There are many IKEAs in Europe and
 they are not very far away from each other. There is only one IKEA in South America
 (in Chile). There are 3 in Africa (all in Egypt). There were 13 IKEA stores in Russia,
