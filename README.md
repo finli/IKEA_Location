@@ -10,5 +10,16 @@ added these to my file. I used my python script find_lat_long.py to look for the
 China was an especially difficult country. Google maps is not often used there and the information on Google was unreliable. Additionally, there were many stores listed as IKEAs on google maps, such as “IKEA leisure hotel”, “IKEA Northeast Speciality Food Supermarket”, “IKEA supermarket”, “Esteem Ikea Home Textile Discount Factory”, “Ikea Convenience Store”, “IKEA heating”, and “IKEA wine and cigarette.” I am not sure if the name IKEA isn’t protected in China, so many stores were using it, or if they were spurious listings on Google Maps.
 
 
+# Results
+![World IKEA Location]("/graphics/World_IKEA.png")
+This is a map with all the IKEAs in the world. There are many IKEAs in Europe and
+they are not very far away from each other. There is only one IKEA in South America
+(in Chile). There are 3 in Africa (all in Egypt). There were 13 IKEA stores in Russia,
+but they all closed last year because of Russia’s attack on Ukraine.
 
-Findings: There is only one IKEA in South America (in Chile). There are 3 in Africa (all in Egypt). There were 13 IKEAs in Russia, but they all closed last year because of Russia’s attack on Ukraine.
+![IKEAs per Country Population]("7graphics/Number_IKEAs_per_Population.png")
+Germany has 55 IKEAS, which is the most IKEAs of any country, but with a population
+of 83,132,799, there are 1,512,414 people per IKEA.
+Iceland has 361,313 people and 1 IKEA, so they have the most IKEAs per population.
+Sweden has the second highest number of IKEAs per population, with 1 for every
+467,520 people.
