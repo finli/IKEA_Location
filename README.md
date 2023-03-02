@@ -12,14 +12,23 @@ China was an especially difficult country. Google maps is not often used there a
 
 # Results
 ![World IKEA Location](graphics/World_IKEA.png)
+
 This is a map with all the IKEAs in the world. There are many IKEAs in Europe and
 they are not very far away from each other. There is only one IKEA in South America
 (in Chile). There are 3 in Africa (all in Egypt). There were 13 IKEA stores in Russia,
 but they all closed last year because of Russia’s attack on Ukraine.
 
 ![IKEAs per Country Population](graphics/Number_IKEA_per_Population.png)
+
 Germany has 55 IKEAS, which is the highest number of IKEAs of any country, 
 but with a population of 83,132,799, there are 1,511,505 people per IKEA.
-Iceland has 361,313 people and 1 IKEA, so they have the most IKEAs per population.
+Iceland has 361,313 people and 1 IKEA, so they have the fewest number of people per IKEA buildings.
 Sweden has the second highest number of IKEAs per population, with 1 for every
-467,520 people.
+467,520 people. 
+
+![Country Population per IKEA](graphics/People_per_IKEA.png)
+
+The previous graph was the number of IKEAs per population. If I flip this and calculate 
+the number of IKEAs per people living in a country, we can see that India has many people
+without proper access to IKEA. There are only 3 IKEAs in India. This looks like a business 
+opportunity for IKEA. South America and Afric also look like they could use more IKEAs. 
