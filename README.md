@@ -31,4 +31,5 @@ Sweden has the second highest number of IKEAs per population, with 1 for every
 The previous graph was the number of IKEAs per population. If I flip this and calculate 
 the number of IKEAs per people living in a country, we can see that India has many people
 without proper access to IKEA. There are only 3 IKEAs in India. This looks like a business 
-opportunity for IKEA. South America and Afric also look like they could use more IKEAs. 
+opportunity for IKEA. South America and Afric also look like they could use more IKEAs based 
+on the IKEA density per continent. 
