@@ -41,3 +41,5 @@ growing each circle at the same rate until they start to crash into each other. 
 crash become the borders for a Voronoi diagram. It can be used in this case to find the closest IKEA
 warehouse for everyone in Sweden. The lines of the Voronoi diagram show where the an address would be 
 equally close to two IKEAs. Any address inside a cell is closest to the IKEA point at the center. 
+
+Unfortunately, some of the points on my map are in the Baltic Sea, so the map is a little bit wrong. 
