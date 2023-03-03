@@ -33,3 +33,11 @@ the number of IKEAs per people living in a country, we can see that India has ma
 without proper access to IKEA. There are only 3 IKEAs in India. This looks like a business 
 opportunity for IKEA. South America and Afric also look like they could use more IKEAs based 
 on the IKEA density per continent. 
+
+![Country Population per IKEA](graphics/Voronoi_Sweden.png)
+
+Voronoi diagrams are made by making a circle around a every point in a set of points and then
+growing each circle at the same rate until they start to crash into each other. The places where the circles
+crash become the borders for a Voronoi diagram. It can be used in this case to find the closest IKEA
+warehouse for everyone in Sweden. The lines of the Voronoi diagram show where the an address would be 
+equally close to two IKEAs. Any address inside a cell is closest to the IKEA point at the center. 
